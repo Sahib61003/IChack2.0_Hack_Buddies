@@ -1,0 +1,223 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 1.37%;
+  right: 0;
+  bottom: -1.37%;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.carbon-emission-simulator2 {
+  position: absolute;
+  height: 23.51%;
+  width: 81.75%;
+  top: 22.14%;
+  left: -51.71%;
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-archivo-black);
+  display: flex;
+  align-items: center;
+}
+.instance-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-darkslategray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.get-started1 {
+  position: absolute;
+  top: 18.97%;
+  left: 6.83%;
+}
+.rectangle-container,
+.rectangle-div {
+  position: absolute;
+  height: 5.68%;
+  width: 14.28%;
+  top: 77.08%;
+  right: 137.43%;
+  bottom: 17.24%;
+  left: -51.71%;
+}
+.rectangle-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-palegreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-div,
+.learn-more1 {
+  position: absolute;
+  top: 18.97%;
+  left: 8.78%;
+}
+.group-div {
+  height: 5.68%;
+  width: 14.28%;
+  top: 77.08%;
+  right: 115.63%;
+  bottom: 17.24%;
+  left: -29.91%;
+  color: var(--color-gray-300);
+}
+.vector-icon1 {
+  position: absolute;
+  height: 62.92%;
+  width: 4.59%;
+  top: 37.08%;
+  right: 0;
+  bottom: 0;
+  left: 95.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contact3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.contact2,
+.dataset2,
+.home2 {
+  position: absolute;
+  height: 22.47%;
+  width: 7.42%;
+  top: 64.04%;
+  right: 10.94%;
+  bottom: 13.48%;
+  left: 81.64%;
+}
+.dataset2,
+.home2 {
+  width: 6.96%;
+  top: 65.17%;
+  right: 22.88%;
+  bottom: 12.36%;
+  left: 70.16%;
+}
+.home2 {
+  width: 4.59%;
+  top: 66.29%;
+  right: 34.97%;
+  bottom: 11.24%;
+  left: 60.44%;
+}
+.component-2-icon {
+  position: absolute;
+  height: 101.12%;
+  width: 9.5%;
+  top: -0.56%;
+  right: 90.54%;
+  bottom: -0.56%;
+  left: -0.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.an-interactive-tool1,
+.vector-parent {
+  position: absolute;
+  color: var(--color-dimgray);
+}
+.vector-parent {
+  height: 8.72%;
+  width: 91.02%;
+  top: -11.17%;
+  right: 3.52%;
+  bottom: 102.45%;
+  left: 5.47%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-archivo-black);
+}
+.an-interactive-tool1 {
+  width: 86.56%;
+  top: 53.18%;
+  left: -84.85%;
+  font-size: var(--font-size-13xl);
+  display: flex;
+  align-items: center;
+}
+.property-1default {
+  position: relative;
+  width: 1436px;
+  height: 1021px;
+}
+.an-interactive-tool2,
+.carbon-emission-simulator3 {
+  position: absolute;
+  left: 5.5%;
+  display: flex;
+  align-items: center;
+}
+.carbon-emission-simulator3 {
+  height: 23.51%;
+  width: 81.75%;
+  top: 24.88%;
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-archivo-black);
+}
+.an-interactive-tool2 {
+  width: 86.56%;
+  top: 48.38%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dimgray);
+}
+.rectangle-parent1,
+.rectangle-parent2,
+.vector-group {
+  position: absolute;
+  height: 5.68%;
+  width: 14.28%;
+  top: 75.22%;
+  right: 78.76%;
+  bottom: 19.1%;
+  left: 6.96%;
+}
+.rectangle-parent2,
+.vector-group {
+  right: 59.61%;
+  left: 26.11%;
+  color: var(--color-gray-300);
+}
+.vector-group {
+  height: 8.72%;
+  width: 91.02%;
+  top: 7.05%;
+  right: 4.46%;
+  bottom: 84.23%;
+  left: 4.53%;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray);
+  font-family: var(--font-archivo-black);
+}
+.component-3 {
+  position: relative;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 500px 400px;
+  gap: 200px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-red-rose);
+}

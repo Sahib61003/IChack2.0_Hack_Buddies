@@ -1,0 +1,563 @@
+.home,
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.home {
+  top: 59px;
+  left: 790px;
+  width: 60px;
+  height: 20px;
+}
+.contact,
+.dataset,
+.vector-icon {
+  position: absolute;
+  top: 58px;
+  left: 917px;
+  width: 91px;
+  height: 20px;
+}
+.contact,
+.vector-icon {
+  top: 57px;
+  left: 1067px;
+  width: 97px;
+}
+.vector-icon {
+  top: 33px;
+  left: 1244px;
+  width: 60px;
+  height: 56px;
+}
+.component-1-icon,
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 123.59px;
+  height: 89px;
+}
+.frame {
+  top: 80px;
+  left: 66px;
+  width: 1304px;
+  overflow: hidden;
+  color: var(--color-dimgray);
+}
+.carbon-emission-simulator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 1174px;
+  height: 240px;
+}
+.an-interactive-tool,
+.frame1 {
+  position: absolute;
+  width: 1243px;
+}
+.an-interactive-tool {
+  top: 240px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-red-rose);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.frame1 {
+  top: 262px;
+  left: 80px;
+  height: 400px;
+  overflow: hidden;
+  font-size: var(--font-size-51xl);
+  color: var(--color-gray-100);
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-darkslategray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  position: absolute;
+  top: 18.97%;
+  left: 6.83%;
+}
+.instance-item,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 205px;
+  height: 58px;
+}
+.instance-item {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-palegreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.learn-more {
+  position: absolute;
+  top: 18.97%;
+  left: 8.78%;
+}
+.frame2,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 275px;
+  width: 205px;
+  height: 58px;
+  color: var(--color-gray-300);
+}
+.frame2 {
+  top: 776px;
+  left: 101px;
+  width: 480px;
+  overflow: hidden;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-red-rose);
+}
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 607px;
+  width: 1804px;
+  height: 1234.53px;
+}
+.frame-item {
+  top: 624.55px;
+  width: 1440px;
+  height: 1356.32px;
+}
+.by-providing-real-time {
+  position: absolute;
+  top: 91px;
+  left: 1267px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-red-rose);
+  display: flex;
+  align-items: center;
+  width: 690px;
+  height: 732px;
+}
+.features {
+  position: absolute;
+  top: 1279px;
+  left: 1013px;
+  font-size: 96px;
+  color: var(--color-gray-100);
+}
+.frame-inner,
+.line-div {
+  position: absolute;
+  top: 1328.5px;
+  left: 722.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 243px;
+  height: 5px;
+}
+.line-div {
+  left: 1625.5px;
+  width: 318px;
+}
+.emission-scenario-analysis,
+.real-time-industry-data {
+  position: absolute;
+  top: 1502px;
+  left: 802px;
+  display: flex;
+  align-items: center;
+  width: 570px;
+  height: 102px;
+}
+.emission-scenario-analysis {
+  top: 1650px;
+  left: 1332px;
+  width: 621px;
+}
+.carbon-reduction-strategies,
+.div,
+.div1,
+.div2,
+.div3,
+.interactive-visualization {
+  position: absolute;
+  top: 1789px;
+  left: 821px;
+  display: flex;
+  align-items: center;
+  width: 647px;
+  height: 102px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.interactive-visualization {
+  top: 1953px;
+  left: 1327px;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  top: 1517px;
+  left: 733px;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-copse);
+  width: 55px;
+  height: 64px;
+}
+.div1,
+.div2,
+.div3 {
+  top: 1663px;
+  left: 1266px;
+  width: 77px;
+  height: 68px;
+}
+.div2,
+.div3 {
+  top: 1803px;
+  left: 733px;
+  width: 88px;
+  height: 66px;
+}
+.div3 {
+  top: 1969px;
+  left: 1258px;
+  width: 82px;
+  height: 67px;
+}
+.undraw-searching-re-3ra9-1-icon {
+  position: absolute;
+  top: 181px;
+  left: 649px;
+  width: 565px;
+  height: 499px;
+  overflow: hidden;
+}
+.undraw-professor-re-mj1s-2-icon,
+.undraw-questions-re-1fy7-1-icon {
+  position: absolute;
+  top: 3178px;
+  left: 1672px;
+  width: 291px;
+  height: 229px;
+  overflow: hidden;
+}
+.undraw-questions-re-1fy7-1-icon {
+  top: 2146px;
+  left: 898px;
+  width: 886px;
+  height: 660px;
+}
+.why-us {
+  position: absolute;
+  top: 2900px;
+  left: 945px;
+  font-size: var(--font-size-111xl);
+  color: var(--color-gray-100);
+}
+.undraw-surveillance-re-8tkl-1-icon {
+  position: absolute;
+  top: 3948px;
+  left: 738px;
+  width: 363px;
+  height: 257px;
+  overflow: hidden;
+}
+.frame-child1 {
+  position: absolute;
+  top: 4128.64px;
+  left: 1006.5px;
+  width: 1145.15px;
+  height: 1399.73px;
+}
+.get-involved,
+.visit-our-model {
+  position: absolute;
+  top: 4630px;
+  left: 988px;
+  font-size: var(--font-size-51xl);
+}
+.get-involved {
+  top: 5105px;
+  left: 756px;
+  font-size: var(--font-size-36xl);
+}
+.carbon-emission-simulator1 {
+  position: absolute;
+  top: 20px;
+  left: 77px;
+  display: flex;
+  align-items: center;
+  width: 790px;
+  height: 73px;
+}
+.carbon-emission-simulator-wrapper {
+  position: absolute;
+  top: 4778px;
+  left: 847px;
+  border-radius: 55px;
+  background-color: #d9d9d9;
+  width: 926px;
+  height: 114px;
+  font-size: 50px;
+  color: #000;
+}
+.join-our-community {
+  position: absolute;
+  top: 5224px;
+  left: 756px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-red-rose);
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  width: 859px;
+}
+.frame-child2 {
+  position: absolute;
+  top: 2414.5px;
+  left: 607px;
+  width: 846.62px;
+  height: 1148.58px;
+}
+.raise-awareness {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.informed-decision-making,
+.policy-advocacy {
+  position: absolute;
+  top: 258px;
+  left: 369px;
+}
+.policy-advocacy {
+  top: 534px;
+  left: 0;
+}
+.climate-action,
+.industry-accountability {
+  position: absolute;
+  top: 788px;
+  left: 371px;
+}
+.climate-action {
+  top: 1091px;
+  left: 0;
+}
+.advocate-for-sustainable,
+.empower-businesses-policymake,
+.hold-industries-accountable,
+.take-action-towards,
+.understand-the-significance {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-red-rose);
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  width: 859px;
+}
+.advocate-for-sustainable,
+.empower-businesses-policymake,
+.hold-industries-accountable,
+.take-action-towards {
+  top: 324px;
+  left: 369px;
+}
+.advocate-for-sustainable,
+.hold-industries-accountable,
+.take-action-towards {
+  top: 609px;
+  left: 0;
+}
+.hold-industries-accountable,
+.take-action-towards {
+  top: 887px;
+  left: 371px;
+}
+.take-action-towards {
+  top: 1180px;
+  left: 0;
+}
+.raise-awareness-parent {
+  position: absolute;
+  top: 3208px;
+  left: 756px;
+  width: 1230px;
+  height: 1300px;
+}
+.share-your-own {
+  position: absolute;
+  top: 5383px;
+  left: 1185px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-red-rose);
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  width: 859px;
+}
+.frame3,
+.undraw-questions-re-1fy7-1-icon1,
+.undraw-surveillance-re-8tkl-1-icon1 {
+  position: absolute;
+  top: 4237px;
+  left: 1040px;
+  width: 2px;
+  height: 1px;
+  overflow: hidden;
+}
+.frame3,
+.undraw-questions-re-1fy7-1-icon1 {
+  top: 2567px;
+  left: 1554px;
+  width: 1px;
+}
+.frame3 {
+  top: 869px;
+  left: -607px;
+  width: 2742.69px;
+  height: 5528.36px;
+  font-size: var(--font-size-21xl);
+}
+.collaborate-with-us {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 859px;
+}
+.frame4,
+.team {
+  position: absolute;
+}
+.frame4 {
+  top: 6418px;
+  left: 149px;
+  width: 859px;
+  height: 120px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-red-rose);
+}
+.team {
+  top: 0;
+  left: 518px;
+}
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  top: 29.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 478px;
+  height: 1px;
+}
+.frame-child6 {
+  left: 738.5px;
+}
+.frame-icon,
+.frame5 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame5 {
+  top: 6731px;
+  left: 120px;
+  width: 1216px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-36xl);
+}
+.frame-icon {
+  top: 6942px;
+  left: 132px;
+  width: 1136px;
+  height: 143.99px;
+}
+.sahibpreet-singh {
+  position: absolute;
+  top: 9px;
+  left: 0;
+}
+.angaddeep-singh,
+.gurnoor-kaur-bindra,
+.prabhjot-singh {
+  position: absolute;
+  top: 0;
+  left: 331px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 221px;
+  height: 55px;
+}
+.angaddeep-singh,
+.gurnoor-kaur-bindra {
+  top: 23px;
+  left: 678px;
+}
+.angaddeep-singh {
+  top: 27px;
+  left: 1001px;
+}
+.frame-icon1,
+.frame6 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame6 {
+  top: 7132px;
+  left: 86px;
+  width: 1222px;
+  height: 82px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.frame-icon1 {
+  top: 7073px;
+  left: 0;
+  width: 1514.5px;
+  height: 677.38px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-gray-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 7595px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-archivo-black);
+}
